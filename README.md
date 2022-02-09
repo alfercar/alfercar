@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alfonso Fernández Carpio
 - 👀 I’m interested in GIS and Environment Restoration
 - 🌱 I’m currently learning GIS and programation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me alfonsofdez97@gmail.com
 
 <!---
